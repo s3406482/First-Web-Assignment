@@ -1,0 +1,4 @@
+cate||blanchett||1400 lothlorien avenue||imold@lothlorien.com||02-12-1000||female||QueenB||Queeny12||mithril||tenyears
+Bilbo||baggins||34 hobbiton lane||bagginses@bagend.com||13-12-1964||male||Bilbo||therings23||silver||annual
+Legolas||Greenleaf||82 fairy way||orlando@mirkwoodol.com||13-12-1300||male||Pansy82||omyhair12||silver||annual
+Gandalf||greyhame||43 wizard way||bigwizard@bagend.com||13-12-1964||male||Gandalf||glamdr45||silver||annual

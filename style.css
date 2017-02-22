@@ -1,0 +1,222 @@
+/* @CHARSET "ISO-8859-1"; */
+
+body {
+    background-color: black;
+    /* background:url('images/background.jpg');
+    background-repeat: no-repeat; */
+    font-family: 'Slabo 13px', serif;
+}
+h1
+{
+	vertical-align:top;
+}
+
+h2 {
+    color: orange;
+    text-align: center;
+
+}
+
+h3 {
+	color: white;
+	text-align: center;
+	
+}
+p {
+    /*font-size: 20px;*/
+    color: black;
+}
+
+a:link{
+	color: yellow;
+	text-decoration: none;
+}
+a:visited{
+	color:gold;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+	text-decoration: underline;
+}
+p#navbar
+{
+	font-size: 20px;
+}
+div#nav
+{
+	height:250px;
+	width: 200px;
+}
+div#nav,
+div#content
+{
+	
+	box-sizing: border-box;
+	vertical-align: top; 
+	display:inline-block;
+	text-align: left;
+}
+div#synopsis
+{
+	background-color: rgba(255,255,255,0.5);
+	border-style: solid;
+	border-color: gold;	
+	border-width: 5px;
+	padding:10px;
+	border-radius: 25px;
+}
+div.pic,
+div.text
+{
+	vertical-align: top;
+	display:inline-block;
+	text-align: left;
+	
+}
+div.bio
+{
+	background-color: rgba(255,255,255,0.5);
+	border-style: solid;
+	border-color: gold;	
+	border-width: 5px;
+	border-radius: 25px;	
+}
+div.gallerypic
+{
+	display:inline-block;
+	width:200px;
+	
+}
+div.gallerypic img
+{
+	border-style: solid;
+	border-color: #ffffff;	
+	border-width: 1px;
+}
+div.gallerypic a:hover img
+{
+	border-style: solid;
+	border-color: red;	
+	border-width: 1px;
+}
+div#footer
+{
+	text-align: center;
+	font-size:15px;
+	background-color: grey;
+	border-style: solid;
+	border-color: gold;	
+	border-width: 1px;
+}
+
+div.image {
+    margin: 5px;
+    padding: 5px;
+    border-style: solid;
+	border-color: gold;	
+	border-width: 5px;
+    float: left;
+    text-align: center;
+    height:300px;
+}
+
+div.image img {
+    display: inline;
+    margin: 5px;
+    border-style: solid;
+	border-color: #ffffff;	
+	border-width: 1px;
+}
+
+div.image a:hover img {
+    border-style: solid;
+	border-color: red;	
+	border-width: 1px;
+}
+div#cart{
+	display:inline-block;
+	vertical-align:top;
+}
+div#cartitem{
+	
+	color:white;
+	border-color: yellow;
+	border-width: 1px;
+	border-style: solid;
+	width:300px;
+	height:100px;
+}
+div.desc {
+    text-align: center;
+    color:white;
+    width: 100px;
+    margin: 10px;
+}
+div.desc a:link
+{
+	color: white;
+	text-decoration: none;
+}
+div.desc a:visited
+{
+	color: white;
+	text-decoration: none;
+}
+div.desc a:hover
+{
+	color: gold;
+	text-decoration: underline;
+}
+
+div.price{
+	
+	text-align: left;
+	color:white;
+	font-size:10px;
+}
+div#trailer
+{
+	display: inline;
+	padding: 2cm;
+
+}
+p.inputform
+{
+	color:white;
+	padding: 1cm 3cm 3cm 3cm;
+}
+form
+{
+	color:white;
+	
+}
+div#regInfo
+{
+	
+	display:inline-block;
+	padding: 1cm;
+	background-color: rgba(255,255,255,0.5);
+	border-style: solid;
+	border-color: gold;	
+	border-width: 5px;
+	border-radius: 25px;
+	
+}
+div#validate
+{
+	color: white;
+	text-align: center;
+	display:inline-block;
+}
+div#checkout
+{
+	color: white;
+	display:inline-block;
+}
+video
+{
+	border-style: solid;
+	border-color: gold;	
+	border-width: 5px;
+}

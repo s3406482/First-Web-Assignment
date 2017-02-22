@@ -1,0 +1,2 @@
+<h1><a href= "index.php"><img src="images/banner.jpg" alt="Hobbit - Battle of Five Armies" width = "1350" height = "200"></img></a></h1>
+<!-- banner sourced from http://cdn.screenrant.com/wp-content/uploads/hobbit-battle-five-armies-banner.jpg for educational purposes only -->
